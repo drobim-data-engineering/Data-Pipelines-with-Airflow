@@ -1,0 +1,7 @@
+pandas
+boto3
+jupyter
+ipython-sql
+apache-airflow
+psycopg2-binary
+celery
