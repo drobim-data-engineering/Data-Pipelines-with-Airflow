@@ -166,7 +166,7 @@ Unfortunately, this is out of scope of this exercise. However, Udacity students 
 #### Start the DAG
 Visit the Airflow UI and start the DAG by switching it state from OFF to ON.
 
-Refresh the page and click on the "trigger button"
+Refresh the page and click on the "trigger dag" button
 
 ![trigger_dag](images/trigger_dag.png)
 
